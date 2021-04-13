@@ -33,7 +33,7 @@
 </p>
 
 <h3 align=center>
-  •••<br>
+  •••<br><br>
   
   [📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
   
