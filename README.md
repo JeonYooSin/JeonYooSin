@@ -30,13 +30,9 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-
-<h4 align="center"><div onclick="location.href='https://www.naver.com';" style="cursor:pointer;">📃YooSin's Career</div></h4>
-
-
 <div align=center>
 
-[📃YooSin's Career]()
+[📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
 
 </div>
 <!--
