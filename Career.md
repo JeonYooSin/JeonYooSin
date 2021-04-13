@@ -12,12 +12,10 @@
        5. PUSH 서버 유지보수
        6. 알림톡 발송 기능 개발
 
-<div style="float:left">
-  <img src="https://github.com/JeonYooSin/JeonYooSin/blob/main/images/IMG_0152.PNG" style="zoom:20%;" />
-  <img src="https://github.com/JeonYooSin/JeonYooSin/blob/main/images/IMG_0152.PNG" style="zoom:20%;" />  
+<div>
+    <img src="./images/IMG_0152.PNG" style="zoom:20%;" />
+    <img src="./images/IMG_0152.PNG" style="zoom:20%;" />
 </div>
-
-
 
 # 어다인 ( 2019. 07 ~ 2019. 08 ), ( 2017. 06 ~ 2019. 06 )
 
