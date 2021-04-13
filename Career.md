@@ -12,7 +12,7 @@
        5. PUSH 서버 유지보수
        6. 알림톡 발송 기능 개발
 
-<div style="float:left">
+<div>
     <img src="./images/IMG_0152.PNG" width="20%" />
     <img src="./images/IMG_0152.PNG" width="20%" />
 </div>
