@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-<div onclick="location.href='https://www.naver.com';" style="cursor:pointer;">
-<h4 align="center">📃YooSin's Career</h4>
-</div>
+
+<h4 align="center"><div onclick="location.href='https://www.naver.com';" style="cursor:pointer;">📃YooSin's Career</div></h4>
+
 
 <div align=center>
 
