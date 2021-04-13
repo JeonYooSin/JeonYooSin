@@ -30,11 +30,12 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-<div align=center>
+<br>
+<h3 align=center>
 
 [📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
 
-</div>
+</h3>
 <!--
 **JeonYooSin/JeonYooSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
