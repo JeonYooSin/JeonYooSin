@@ -12,7 +12,9 @@
 </h4>
 
 <br>
-<h3 align="center">💻 Technology Stack 😎</h3>
+<h3 align="center">
+  💻 Technology Stack 😎
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Main-JAVA-orange"/>&nbsp
   <br>
@@ -30,11 +32,9 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-<br>
 <h3 align=center>
-
-[📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
-
+  •••<br>
+  [📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
 </h3>
 <!--
 **JeonYooSin/JeonYooSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
