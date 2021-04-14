@@ -13,14 +13,14 @@
        6. 알림톡 발송 기능 개발
 
 <div>
-    <img src="./images/IMG_0152.PNG" width="30%" />
-    <img src="./images/IMG_0157.PNG" width="30%" />
-    <img src="./images/IMG_0164.PNG" width="30%" />
+    <img src="./images/IMG_0152.png" width="30%" />
+    <img src="./images/IMG_0157.png" width="30%" />
+    <img src="./images/IMG_0164.png" width="30%" />
 </div>
 <div>
-    <img src="./images/IMG_0158.PNG" width="30%" />
-    <img src="./images/IMG_0159.PNG" width="30%" />
-    <img src="./images/IMG_0161.PNG" width="30%" />
+    <img src="./images/IMG_0158.png" width="30%" />
+    <img src="./images/IMG_0159.png" width="30%" />
+    <img src="./images/IMG_0161.png" width="30%" />
 </div>
 
 # 어다인 ( 2019. 07 ~ 2019. 08 ), ( 2017. 06 ~ 2019. 06 )
