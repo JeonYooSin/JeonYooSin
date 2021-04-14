@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=👩‍💻%20Jeon%20Yoo%20Sin&animation=twinkling&fontAlignY=30&fontColor=black&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=👩‍💻%20Jeon%20Yoo%20Sin&animation=twinkling&fontAlignY=35&fontColor=black&fontSize=50)
 
 <div align=center>
 
@@ -35,7 +35,7 @@
 <h3 align=center>
   •••<br><br>
   
-  [📃YooSin's Career](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
+  [👨‍💻 YooSin's Career 💾](https://github.com/JeonYooSin/JeonYooSin/blob/main/Career.md)
   
 </h3>
 <!--
